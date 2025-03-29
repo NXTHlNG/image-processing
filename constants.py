@@ -4,7 +4,7 @@
 from color_conversion import CMYK, HSL, LAB, HSV, YCBCR
 
 
-THUMBNAIL_SIZE = (1600, 900)
+THUMBNAIL_SIZE = (720, 480)
 
 # Путь к файлу с функциями преобразования цветов
 COLOR_CONVERSION_FILE = "color_conversion.py"
